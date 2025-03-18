@@ -12,4 +12,4 @@ Este é um projeto de um simples *Stopwacth(Cronômetro)* desenvolvido utilizand
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o cronômetro através deste [link](https://marcellofigueiredo.github.io/stopwatch/).
+Você pode acessar  o cronômetro através deste [link](https://marcellofigueiredo.github.io/Stopwacth/).
