@@ -1,8 +1,8 @@
-# Snapwacth🕐
+# Stopwacth🕐
 
 ![Imagem do Cronômetro](./img/capa.jpg)
 
-Este é um projeto de um simples *Snapwacth(Cronômetro)* desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.💻✨
+Este é um projeto de um simples *Stopwacth(Cronômetro)* desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.💻✨
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -12,4 +12,4 @@ Este é um projeto de um simples *Snapwacth(Cronômetro)* desenvolvido utilizand
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o Relógio Digital através deste [link](https://marcellofigueiredo.github.io/snapwacth/).
+Você pode acessar  o cronômetro através deste [link](https://marcellofigueiredo.github.io/stopwatch/).
